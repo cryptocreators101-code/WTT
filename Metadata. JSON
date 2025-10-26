@@ -1,0 +1,29 @@
+{
+  "name": "$WTT - Watu Tumechoka Token",
+  "symbol": "WTT",
+  "description": "A community coin created by Kenyan youth — the digital voice of a generation fed up with corruption, false promises, and political games. Built for unity, transparency, and empowerment on the Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/cryptocreators101-code/WTT/main/media/logo.png",
+  "external_url": "https://github.com/cryptocreators101-code/WTT",
+  "creator": "Crypto Creators Collective",
+  "socials": {
+    https://t.me/+8n5UZ2U0SRM4M2Rk
+    "x": "https://x.com/YourPageHere",
+    "youtube": "https://youtube.com/@YourChannelHere"
+  },
+  "tokenomics": {
+    "total_supply": "10,000,000,000",
+    "distribution": {
+      "community_rewards": "30%",
+      "development_team": "20%",
+      "marketing_partnerships": "15%",
+      "liquidity_exchange_listings": "20%",
+      "reserve_future": "15%"
+    }
+  },
+  "roadmap": {
+    "phase_1": "Community foundation and awareness campaigns",
+    "phase_2": "Token launch, exchange listings, education programs",
+    "phase_3": "DAO setup, NFT utilities, ecosystem expansion"
+  },
+  "license": "MIT"
+}
